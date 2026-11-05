@@ -1,0 +1,8 @@
+{
+  "name": "個人專屬 ETF 追蹤儀表板",
+  "description": "提供自訂持股權重、5年每日歷史走勢回測、即時加權淨值計算與時間軸縮放折線圖的專業財經儀表板",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
